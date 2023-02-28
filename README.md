@@ -1,7 +1,7 @@
 <h1><strong>Custom-OhMyZsh</strong>
 </h1><h2>Description</h2>
 <p>This Bash script installs and configures a <strong>customized</strong> shell environment for use in <strong>pentesting projects</strong>. 
-It is built around the <strong>Oh My Zsh</strong> framework, a popular open-source community-driven framework for managing your Zsh configuration. 
+It is built around the <strong>Oh My Zsh</strong>, for managing your Zsh configuration. 
 The script installs the framework and sets up the <strong>Agnoster theme</strong>, a popular shell theme that provides useful information about your system in the prompt.</p>
 <p>In addition to the Agnoster theme, the script installs and configures several <strong>Zsh plugins</strong> that are commonly used in pentesting projects. 
 These plugins include:</p><ul><li><strong>zsh-autosuggestions</strong>: a plugin that suggests commands as you type based on your command history</li>
