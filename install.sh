@@ -50,7 +50,7 @@ function extractPorts(){
     cat extractPorts.tmp; rm extractPorts.tmp
 }" >> ~/.zshrc
 
-# Añadir función mkt() al archivo .zshrc
+# Add mkt() function to the .zshrc file
 echo "function mkt(){
     mkdir {nmap,content,exploits,scripts}
 }" >> ~/.zshrc
